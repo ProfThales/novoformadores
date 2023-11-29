@@ -1,0 +1,33 @@
+body {background-color: rgb(25, 19, 148);}
+
+header {
+
+    padding: 20px;
+    background-color: bisque;
+    border-bottom: 2px solid whitesmoke;
+    font-size: 22px;
+    color: aqua;
+}
+
+#imagem {width: 100%;}
+ 
+    #titulo
+{text-align: center;
+    font-size: 100px;
+color: black;}
+
+#subtitulo
+{ text-align: center;
+font-size: 100px;}
+
+
+    .texto{
+        text-align: center;
+        font-size: 100px;
+        color: black;
+
+        li {
+            list-style-type: none;
+          }
+
+    }
